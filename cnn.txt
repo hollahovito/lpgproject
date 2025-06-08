@@ -18,3 +18,5 @@ else
         echo "your transaction has been declined"
         echo "try again with a smaller transaction"
 fi
+echo "we are getting the resuls we wanted from these people"
+echo "and we are going to do everything in our capacity to prosecute them"
