@@ -16,7 +16,3 @@ sleep 3
 echo "this ec2 instances will help us in this $var4 $var3"
 sleep 2
 echo "lets get started"
-echo "there are alot for you guys to talk about"
-echo "lets get ready to ramboo"
-echo "this is the end of the game and we won"
-echo "yes we won"
