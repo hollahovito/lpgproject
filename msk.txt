@@ -1,0 +1,27 @@
+# !/bin/bash
+# Author: Hov
+# Date: 2025-06-05
+# Modify: 2025-06-05
+# Description: this script is to print date,calender,users,present working directory,time of login
+echo "todays date is"
+sleep 2
+date
+sleep 2
+echo "this is the calender for the month"
+sleep 2
+cal
+sleep 2
+echo "you are logged in as"
+sleep 2
+whoami
+sleep 2
+echo "you are currently located in"
+sleep 2
+pwd
+sleep 2
+echo "the system has been on for"
+sleep 2
+uptime
+sleep 2
+echo "lets get started"
+-- INSERT --                                                                                  1,1           Top 
