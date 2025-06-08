@@ -1,0 +1,18 @@
+# !/bin/bash
+<< DD
+Author: Hov
+Date: 2025-06-05
+Modify: 2025-06-05
+Description: this scrip is about the use of variables
+DD
+var1="jomacs academy"
+var2="this is devops class"
+var3="course"
+var4="devops"
+echo "welcome to $var1"
+sleep 3
+echo "in this $var2,we will be provisioning ec2 instances"
+sleep 3
+echo "this ec2 instances will help us in this $var4 $var3"
+sleep 2
+echo "lets get started"
