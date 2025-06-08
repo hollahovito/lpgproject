@@ -1,0 +1,20 @@
+#!/bin/bash
+echo "tell me your name"
+sleep 2
+read name
+sleep 2
+echo "your name is $name"
+sleep 2
+echo "please take note of your credit limit before attempting this transaction"
+sleep 2
+echo "please enter the transaction amount"
+sleep 2
+read amount
+sleep 2
+if [ $amount -le 2000 ]
+then
+        echo "your transaction is successful"
+else
+        echo "your transaction has been declined"
+        echo "try again with a smaller transaction"
+fi
