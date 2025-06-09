@@ -1,0 +1,18 @@
+#!/bin/bash
+a=12
+b=3
+echo "welcome to Hov oval office"
+echo "please input the access key to enter"
+read pin
+if [ $pin -eq 1234 ]
+then
+        echo "access granted"
+else
+        echo "access denied, try again"
+fi
+if [ $a -ne $b ]
+then
+        echo "the two numbers are different"
+else
+        echo "the numbers are the same"
+fi
